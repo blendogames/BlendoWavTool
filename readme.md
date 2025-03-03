@@ -17,6 +17,6 @@ This source code is licensed under the MIT license.
 by [Brendon Chung](https://blendogames.com)
 
 ## Libraries used
-- [TabLibSharp](https://github.com/mono/taglib-sharp)
+- [TagLibSharp](https://github.com/mono/taglib-sharp)
 - [NAudio](https://github.com/naudio/NAudio)
 - [Vosk Speech Recognition Toolkit](https://github.com/alphacep/vosk-api)
