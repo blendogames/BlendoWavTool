@@ -3,11 +3,12 @@
 ## About
 This is a tool for finding/browsing/managing game audio assets.
 [![screenshot of Blendo Wav Tool](wavtool.png)](wavtool.png)
+
 This tool was made specifically for idTech4 projects but can be adapted for more general use. More details here:
 
 This is written in C# and a .sln solution for Visual Studio 2015 is provided. Windows only.
 
-Pre-compiled binaries available at
+Pre-compiled binaries available at: [https://github.com/blendogames/BlendoWavTool/releases/tag/release](https://github.com/blendogames/BlendoWavTool/releases/tag/release)
 
 ## License
 This source code is licensed under the MIT license.
