@@ -2,7 +2,7 @@
 
 ## About
 This is a tool for sorting/browsing/managing game audio assets.
-[![screenshot of Blendo Wav Tool](wavtool.png)](wavtool.png)
+![](wavtool.png)
 
 This tool was made specifically for idTech4 projects but can be adapted for more general use. More details here:
 
